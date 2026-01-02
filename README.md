@@ -9,7 +9,7 @@
 A telecommunications firm is concerned about customers switching from land-line services to cable competitors. The goal is to predict which customers are most likely to leave (churn).
 
 ## Dataset
-**Telco Churn Dataset** - Historical data with 200 customer records containing:
+**Telco Churn Dataset** - Historical data:
 - Demographics (age, income, education)
 - Service details (tenure, equipment, service usage)
 - Target variable: churn (0 = stayed, 1 = churned)
